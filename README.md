@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ###Past Projects
-[Project 1](dguardi3.github.io/cit281-p1)
+[Project 1](https://dguardi3.github.io/cit281-p1)
 
 
 
