@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # **CIT281**
 
-## **Past Projects**
+## **Projects**
 - [Project 1](https://dguardi3.github.io/cit281-p1)
 - [Project 2](https://dguardi3.github.io/cit281-p1)
 - [Project 3](https://dguardi3.github.io/cit281-p1)
@@ -15,8 +15,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Project 6](https://dguardi3.github.io/cit281-p1)
 - [Project 7](https://dguardi3.github.io/cit281-p1)
 
-## **Past Labs**
-
+## **Labs**
+- [Lab 1](https://dguardi3.github.io/cit281-p1)
+- [Lab 2](https://dguardi3.github.io/cit281-p1)
+- [Lab 3](https://dguardi3.github.io/cit281-p1)
+- [Lab 4](https://dguardi3.github.io/cit281-p1)
+- [Lab 5](https://dguardi3.github.io/cit281-p1)
+- [Lab 6](https://dguardi3.github.io/cit281-p1)
+- [Lab 7](https://dguardi3.github.io/cit281-p1)
+- [Lab 8](https://dguardi3.github.io/cit281-p1)
+- [Lab 9](https://dguardi3.github.io/cit281-p1)
 
 ### Markdown
 
