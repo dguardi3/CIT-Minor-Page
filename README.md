@@ -10,7 +10,7 @@
 - [Project 7](https://dguardi3.github.io/cit281-p1)
 
 ## **Labs**
-- [Lab 1](https://dguardi3.github.io/cit281-p1)
+- [Lab 1](https://dguardi3.github.io/cit281-lab1/)
 - [Lab 2](https://dguardi3.github.io/cit281-p1)
 - [Lab 3](https://dguardi3.github.io/cit281-p1)
 - [Lab 4](https://dguardi3.github.io/cit281-p1)
